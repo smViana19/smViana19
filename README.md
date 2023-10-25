@@ -29,5 +29,4 @@
     </a>
     </div>
     
-  ![Snake animation](https://github.com/smViana19/smViana19/blob/output/github-contribution-grid-snake.svg)
 
