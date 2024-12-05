@@ -1,5 +1,17 @@
-# Olá! Bem-vindo 👋
+<div align="center">
 
+# Olá! 👋 Seja Bem-vindo ao Meu Perfil
+
+</div>
+Sou um desenvolvedor focado em programação web e mobile, apaixonado por criar soluções escaláveis, de fácil manutenção e com interfaces intuitivas.
+Busco constantemente aprimorar minhas habilidades, explorando novas tecnologias e aplicando as melhores práticas para entregar experiências boas aos usuários.
+
+Recentemente concluí meu curso técnico e estou iniciando a faculdade de Engenharia de Software. Atualmente, estou focado em projetos pessoais e motivado a contribuir para projetos open source.
+
+
+
+
+---
 ### 🌟 Minhas Tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
