@@ -3,7 +3,7 @@
 # Olá! 👋 Seja Bem-vindo ao Meu Perfil
 
 </div>
-Sou um desenvolvedor focado em programação web e mobile, apaixonado por criar soluções escaláveis, de fácil manutenção e com interfaces intuitivas.
+Sou um desenvolvedor focado em programação web e mobile, disposto a criar soluções escaláveis, de fácil manutenção e com interfaces intuitivas.
 Busco constantemente aprimorar minhas habilidades, explorando novas tecnologias e aplicando as melhores práticas para entregar experiências boas aos usuários.
 
 Recentemente concluí meu curso técnico e estou iniciando a faculdade de Engenharia de Software. Atualmente, estou focado em projetos pessoais e motivado a contribuir para projetos open source.
