@@ -3,10 +3,9 @@
 # Olá! 👋 Seja Bem-vindo ao Meu Perfil
 
 </div>
-Sou um desenvolvedor focado em programação web e mobile, disposto a criar soluções escaláveis, de fácil manutenção e com interfaces intuitivas.
-Busco constantemente aprimorar minhas habilidades, explorando novas tecnologias e aplicando as melhores práticas para entregar experiências boas aos usuários.
+Focado em criar soluções escaláveis, de fácil manutenção e com interfaces intuitivas. Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Android nativo com Kotlin e explorando um pouco do mundo do Javascript.
 
-Recentemente concluí meu curso técnico e estou iniciando a faculdade de Engenharia de Software. Atualmente, estou focado em projetos pessoais e motivado a contribuir para projetos open source.
+Recém-formado no curso técnico e iniciando a graduação em Engenharia de Software, estou trabalhando em projetos pessoais e buscando oportunidades para contribuir com projetos open source, sempre aprimorando minhas habilidades e explorando novas tecnologias.
 
 
 
