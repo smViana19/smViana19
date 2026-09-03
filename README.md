@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor de Software</h3>
 
 <p >
-Sou um desenvolvedor de software de <b>19 anos</b>, apaixonado por tecnologia e focado em 
+Sou um desenvolvedor de software, apaixonado por tecnologia e focado em 
 <b>desenvolvimento Android e backend</b>. Atualmente estou sempre buscando evoluir 
 minhas habilidades construindo aplicações modernas, escaláveis e bem estruturadas.
 </p>
